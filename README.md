@@ -25,11 +25,11 @@ multiply with `0.3937...` or divide by `2.54`. Let's do this very literally:
  1 cm / 2.54 = 0.3937 cm
 ```
 
-So, following thsi kind of language strictly does not lead to teh
+So, following this kind of language strictly does not lead to the
 desired result.
 
 
-Unit conversions, in my opinion, have to be repsented as equations:
+Unit conversions, in my opinion, have to be represented as equations:
 
 ```sh
 $ ./units.sh cm inches
